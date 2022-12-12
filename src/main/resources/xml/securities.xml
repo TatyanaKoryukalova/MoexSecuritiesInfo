@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<data id="securities">
+<rows>
+<row id="414943325" secid="A-RM" regnumber="" name="Agilent TechnologiesORD SHS" emitent_title="Agilent Technologies, Inc." />
+<row id="414220919" secid="AA-RM" regnumber="" name="Alcoa Corporation" emitent_title="Alcoa Corporation (Алкоа Корпорэйшн)" />
+<row id="412223567" secid="AAL-RM" regnumber="" name="American Airlines Group Inc." emitent_title="American Airlines Group Inc." />
+<row id="415380933" secid="AAP-RM" regnumber="" name="ADVANCE AUTO PARTS, INC ORDSHS" emitent_title="Advance Auto Parts, Inc." />
+<row id="411886643" secid="AAPL-RM" regnumber="" name="Apple Inc." emitent_title="Apple Inc" />
+<row id="412223569" secid="ABBV-RM" regnumber="" name="AbbVie Inc." emitent_title="AbbVie Inc." />
+<row id="414943327" secid="ABC-RM" regnumber="" name="AmerisourceBergen CorpORD SHS" emitent_title="AmerisourceBergen Corporation" />
+<row id="414458915" secid="ABMD-RM" regnumber="" name="ABIOMED Ord Shs" emitent_title="ABIOMED, Inc." />
+<row id="415380935" secid="ABNB-RM" regnumber="" name="Airbnb, Inc. ORD SHS CL A" emitent_title="Airbnb, Inc." />
+<row id="12441" secid="ABRD" regnumber="1-02-12500-A" name="Абрау-Дюрсо ПАО ао" emitent_title="Публичное акционерное общество &quot;Абрау – Дюрсо&quot;" />
+<row id="412408281" secid="ABT-RM" regnumber="" name="Abbott Laboratories" emitent_title="Abbot Laboratories" />
+<row id="414458917" secid="ACAD-RM" regnumber="" name="Acadia Pharmaceuticals Ord Shs" emitent_title="Acadia Pharmaceuticals Inc." />
+<row id="131568" secid="ACKO" regnumber="1-01-52065-Z" name="АСКО ПАО ао" emitent_title="Публичное акционерное общество &quot;АСКО&quot;" />
+<row id="416011219" secid="ACN-RM" regnumber="" name="Accenture plc ORD SHS CL A" emitent_title="Accenture plc" />
+<row id="85909" secid="acru" regnumber="1-03-01692-A" name="Открытое акционерное общество &quot;Авиационная корпорация &quot;Рубин&quot;" emitent_title="публичное акционерное общество &quot;Авиационная корпорация &quot;Рубин&quot;" />
+<row id="412223571" secid="ADBE-RM" regnumber="" name="Adobe Inc." emitent_title="Adobe Inc." />
+<row id="414691669" secid="ADI-RM" regnumber="" name="Analog Devices, Inc. ORD SHS" emitent_title="Analog Devices, Inc." />
+<row id="414458919" secid="ADM-RM" regnumber="" name="Archer Daniels Midland Ord Shs" emitent_title="Archer-Daniels-Midland Company" />
+<row id="414458921" secid="ADP-RM" regnumber="" name="Automatic Data Processing Ord" emitent_title="Automatic Data Processing, Inc." />
+<row id="414943329" secid="ADSK-RM" regnumber="" name="AUTODESK INC ORDSHS" emitent_title="Autodesk, Inc." />
+<row id="414943331" secid="AEE-RM" regnumber="" name="Ameren Corporation ORD SHS" emitent_title="Ameren Corporation" />
+<row id="415644253" secid="AEO-RM" regnumber="" name="Am Eagle Outfitter Inc ORD SHS" emitent_title="American Eagle Outfitters, Inc." />
+<row id="414691671" secid="AEP-RM" regnumber="" name="American Electr. Power ORD SHS" emitent_title="American Electric Power Company, Inc." />
+<row id="415948263" secid="AER-RM" regnumber="" name="AerCap Holdings N.V._ORD SHS" emitent_title="AerCap Holdings" />
+<row id="414691673" secid="AES-RM" regnumber="" name="The AES Corporation ORD SHS" emitent_title="The AES Corporation" />
+<row id="419467111" secid="AF10000BC3" regnumber="" name="Марж. амер. Call 10000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728227" secid="AF10000BF3" regnumber="" name="Марж. амер. Call 10000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798057" secid="AF10000BI3" regnumber="" name="Марж. амер. Call 10000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416098187" secid="AF10000BL2" regnumber="" name="Марж. амер. Call 10000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467113" secid="AF10000BO3" regnumber="" name="Марж. амер. Put 10000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728229" secid="AF10000BR3" regnumber="" name="Марж. амер. Put 10000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798059" secid="AF10000BU3" regnumber="" name="Марж. амер. Put 10000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416098189" secid="AF10000BX2" regnumber="" name="Марж. амер. Put 10000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158941" secid="AF1000BA3" regnumber="" name="Марж. амер. Call 1000 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557411" secid="AF1000BB3" regnumber="" name="Марж. амер. Call 1000 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467115" secid="AF1000BC3" regnumber="" name="Марж. амер. Call 1000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728231" secid="AF1000BF3" regnumber="" name="Марж. амер. Call 1000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798061" secid="AF1000BI3" regnumber="" name="Марж. амер. Call 1000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183061" secid="AF1000BL2" regnumber="" name="Марж. амер. Call 1000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158943" secid="AF1000BM3" regnumber="" name="Марж. амер. Put 1000 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557413" secid="AF1000BN3" regnumber="" name="Марж. амер. Put 1000 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467117" secid="AF1000BO3" regnumber="" name="Марж. амер. Put 1000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728233" secid="AF1000BR3" regnumber="" name="Марж. амер. Put 1000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798063" secid="AF1000BU3" regnumber="" name="Марж. амер. Put 1000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183073" secid="AF1000BX2" regnumber="" name="Марж. амер. Put 1000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158945" secid="AF1250BA3" regnumber="" name="Марж. амер. Call 1250 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557415" secid="AF1250BB3" regnumber="" name="Марж. амер. Call 1250 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467119" secid="AF1250BC3" regnumber="" name="Марж. амер. Call 1250 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728235" secid="AF1250BF3" regnumber="" name="Марж. амер. Call 1250 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798065" secid="AF1250BI3" regnumber="" name="Марж. амер. Call 1250 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183085" secid="AF1250BL2" regnumber="" name="Марж. амер. Call 1250 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158947" secid="AF1250BM3" regnumber="" name="Марж. амер. Put 1250 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557417" secid="AF1250BN3" regnumber="" name="Марж. амер. Put 1250 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467121" secid="AF1250BO3" regnumber="" name="Марж. амер. Put 1250 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728237" secid="AF1250BR3" regnumber="" name="Марж. амер. Put 1250 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798067" secid="AF1250BU3" regnumber="" name="Марж. амер. Put 1250 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183097" secid="AF1250BX2" regnumber="" name="Марж. амер. Put 1250 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158949" secid="AF1500BA3" regnumber="" name="Марж. амер. Call 1500 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557419" secid="AF1500BB3" regnumber="" name="Марж. амер. Call 1500 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467123" secid="AF1500BC3" regnumber="" name="Марж. амер. Call 1500 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728239" secid="AF1500BF3" regnumber="" name="Марж. амер. Call 1500 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798069" secid="AF1500BI3" regnumber="" name="Марж. амер. Call 1500 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183109" secid="AF1500BL2" regnumber="" name="Марж. амер. Call 1500 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158951" secid="AF1500BM3" regnumber="" name="Марж. амер. Put 1500 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557421" secid="AF1500BN3" regnumber="" name="Марж. амер. Put 1500 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467125" secid="AF1500BO3" regnumber="" name="Марж. амер. Put 1500 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728241" secid="AF1500BR3" regnumber="" name="Марж. амер. Put 1500 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798073" secid="AF1500BU3" regnumber="" name="Марж. амер. Put 1500 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183121" secid="AF1500BX2" regnumber="" name="Марж. амер. Put 1500 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158953" secid="AF1750BA3" regnumber="" name="Марж. амер. Call 1750 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557423" secid="AF1750BB3" regnumber="" name="Марж. амер. Call 1750 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467127" secid="AF1750BC3" regnumber="" name="Марж. амер. Call 1750 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728243" secid="AF1750BF3" regnumber="" name="Марж. амер. Call 1750 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798075" secid="AF1750BI3" regnumber="" name="Марж. амер. Call 1750 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183133" secid="AF1750BL2" regnumber="" name="Марж. амер. Call 1750 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158955" secid="AF1750BM3" regnumber="" name="Марж. амер. Put 1750 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557425" secid="AF1750BN3" regnumber="" name="Марж. амер. Put 1750 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467129" secid="AF1750BO3" regnumber="" name="Марж. амер. Put 1750 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728245" secid="AF1750BR3" regnumber="" name="Марж. амер. Put 1750 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798077" secid="AF1750BU3" regnumber="" name="Марж. амер. Put 1750 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183145" secid="AF1750BX2" regnumber="" name="Марж. амер. Put 1750 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158957" secid="AF2000BA3" regnumber="" name="Марж. амер. Call 2000 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557427" secid="AF2000BB3" regnumber="" name="Марж. амер. Call 2000 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467131" secid="AF2000BC3" regnumber="" name="Марж. амер. Call 2000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728247" secid="AF2000BF3" regnumber="" name="Марж. амер. Call 2000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798079" secid="AF2000BI3" regnumber="" name="Марж. амер. Call 2000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183157" secid="AF2000BL2" regnumber="" name="Марж. амер. Call 2000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158959" secid="AF2000BM3" regnumber="" name="Марж. амер. Put 2000 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557429" secid="AF2000BN3" regnumber="" name="Марж. амер. Put 2000 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467133" secid="AF2000BO3" regnumber="" name="Марж. амер. Put 2000 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728249" secid="AF2000BR3" regnumber="" name="Марж. амер. Put 2000 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798081" secid="AF2000BU3" regnumber="" name="Марж. амер. Put 2000 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183169" secid="AF2000BX2" regnumber="" name="Марж. амер. Put 2000 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158961" secid="AF2250BA3" regnumber="" name="Марж. амер. Call 2250 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420557431" secid="AF2250BB3" regnumber="" name="Марж. амер. Call 2250 с исп. 15 фев. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419467135" secid="AF2250BC3" regnumber="" name="Марж. амер. Call 2250 с исп. 15 марта на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="419728251" secid="AF2250BF3" regnumber="" name="Марж. амер. Call 2250 с исп. 14 июня на фьюч. контр. AFLT-6.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420798083" secid="AF2250BI3" regnumber="" name="Марж. амер. Call 2250 с исп. 20 сент. на фьюч. контр. AFLT-9.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="416183181" secid="AF2250BL2" regnumber="" name="Марж. амер. Call 2250 с исп. 14 дек. на фьюч. контр. AFLT-12.22" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+<row id="420158963" secid="AF2250BM3" regnumber="" name="Марж. амер. Put 2250 с исп. 18 янв. на фьюч. контр. AFLT-3.23" emitent_title="Публичное акционерное общество &quot;Аэрофлот – российские авиалинии&quot;" />
+</rows>
+</data>
+</document>
